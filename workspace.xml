@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b93034ce-bce8-48bd-93de-5dc52a19bf00" name="Changes" comment="Заверстал главную страницу сайта, только статика">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/script.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="proportion" value="0.36176065" />
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2otOLY2inhB68qqNwMaa7J9zcgt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.sofar.html.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/сафар/WebstormProjects/untitledsofar proekt",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\сафар\WebstormProjects\untitledsofar proekt" />
+      <recent name="C:\Users\сафар\WebstormProjects\untitledsofar proekt\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\сафар\WebstormProjects\untitledsofar proekt\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b93034ce-bce8-48bd-93de-5dc52a19bf00" name="Changes" comment="" />
+      <created>1731685351382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731685351382</updated>
+      <workItem from="1731685352715" duration="2340000" />
+      <workItem from="1731766737023" duration="9245000" />
+      <workItem from="1731779780652" duration="17000" />
+      <workItem from="1731827777306" duration="3849000" />
+      <workItem from="1731832224080" duration="19913000" />
+      <workItem from="1732303550329" duration="3865000" />
+      <workItem from="1734001596342" duration="82000" />
+      <workItem from="1734200036315" duration="602000" />
+      <workItem from="1734518368372" duration="790000" />
+      <workItem from="1734714967228" duration="1197000" />
+      <workItem from="1734861986644" duration="596000" />
+      <workItem from="1734944389447" duration="598000" />
+      <workItem from="1734971818361" duration="595000" />
+      <workItem from="1735722479366" duration="17832000" />
+      <workItem from="1737144856217" duration="4000" />
+      <workItem from="1737197273939" duration="2394000" />
+      <workItem from="1737367782923" duration="6003000" />
+      <workItem from="1737587886165" duration="4662000" />
+      <workItem from="1737592597611" duration="9465000" />
+      <workItem from="1738001810284" duration="74000" />
+      <workItem from="1738002075375" duration="2000" />
+      <workItem from="1738002328692" duration="2704000" />
+      <workItem from="1738058662418" duration="2000" />
+      <workItem from="1738066110681" duration="1822000" />
+      <workItem from="1738081140375" duration="16000" />
+      <workItem from="1738089921931" duration="578000" />
+      <workItem from="1738431276113" duration="12866000" />
+      <workItem from="1738558728485" duration="1193000" />
+      <workItem from="1738617257481" duration="10474000" />
+      <workItem from="1739016474611" duration="2574000" />
+      <workItem from="1739131118797" duration="382000" />
+      <workItem from="1739131512096" duration="4138000" />
+    </task>
+    <task id="LOCAL-00001" summary="oko">
+      <option name="closed" value="true" />
+      <created>1732300820735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732300820735</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Заверстал главную страницу сайта, только статика">
+      <option name="closed" value="true" />
+      <created>1736238247816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736238247816</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Заверстал главную страницу сайта, только статика">
+      <option name="closed" value="true" />
+      <created>1738620508919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738620508919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Заверстал главную страницу сайта, только статика">
+      <option name="closed" value="true" />
+      <created>1738621184898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738621184898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oko" />
+    <MESSAGE value="Заверстал главную страницу сайта, только статика" />
+    <option name="LAST_COMMIT_MESSAGE" value="Заверстал главную страницу сайта, только статика" />
+  </component>
+</project>
